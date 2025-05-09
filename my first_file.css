@@ -12,3 +12,13 @@ Console.Write("Enter the Second Number");
 int n2 = Int.Parse(Console.ReadLine());
 int c= n1-n2;
 Console.Write("The Subtraction of the two number is "+c);
+-------------------------------------------------------
+Product
+Subtract Feature ADDED
+Console.Write("Enter the first Number");
+int n1 = Int.Parse(Console.ReadLine());
+Console.Write("Enter the Second Number");
+int n2 = Int.Parse(Console.ReadLine());
+int c= n1*n2;
+Console.Write("The Product of the two number is "+c);
+
