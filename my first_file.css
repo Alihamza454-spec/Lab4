@@ -1,0 +1,6 @@
+Console.Write("Enter the first Number");
+int n1 = Int.Parse(Console.ReadLine());
+Console.Write("Enter the Second Number");
+int n2 = Int.Parse(Console.ReadLine());
+int c= n1+n2;
+Console.Write("The Sum of the two number is "+c);
